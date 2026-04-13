@@ -14,14 +14,14 @@ This project is a **custom pathway** to OpenAI — it guides and shapes the AI t
    python -m venv venv
    venv\Scripts\activate     # Windows
 
-Install dependencies
+3. Install dependencies
 
 pip install -r requirements.txt
 
-Set up API key:Copy .env.example → .env (or chatbot.env)
+4. Set up API key:Copy .env.example → .env (or chatbot.env)
 Paste your OpenAI API key inside
 
-Run it:
+5. Run it:
 
 python wellness_chatbot.py
 
